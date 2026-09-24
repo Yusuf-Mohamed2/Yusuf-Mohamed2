@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Data Analytics | Data Engineering** enthus
 
 ## Get in Touch
 
-💼 LinkedIn: [in/Yusuf-Mohamed](yusuf-mohamed-39649a322/)
+💼 LinkedIn: [in/Yusuf-Mohamed](https://www.linkedin.com/in/yusuf-mohamed-39649a322/)
 📧 Email: yusufmohamedabdelkader01@gmail.com
 
 Feel free to explore my repositories and projects. 🚀
